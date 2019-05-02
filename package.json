@@ -1,0 +1,37 @@
+{
+    "name": "namack-pack",
+    "displayName": "namack-pack",
+    "description": "Nate's Extension Pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-vscode.atom-keybindings",
+        "formulahendry.auto-close-tag",
+        "mgmcdermott.vscode-language-babel",
+        "coenraads.bracket-pair-colorizer-2",
+        "msjsdiag.debugger-for-chrome",
+        "peterjausovec.vscode-docker",
+        "mikestead.dotenv",
+        "bceskavich.theme-dracula-at-night",
+        "dbaeumer.vscode-eslint",
+        "capaj.vscode-exports-autocomplete",
+        "github.vscode-pull-request-github",
+        "ms-vscode.go",
+        "xabikos.javascriptsnippets",
+        "andys8.jest-snippets",
+        "bierner.markdown-preview-github-styles",
+        "davidanson.vscode-markdownlint",
+        "s3gf4ult.monokai-vibrant",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "visualstudioexptteam.vscodeintellicode",
+        "zxh404.vscode-proto3"
+    ]
+}
