@@ -3,6 +3,7 @@
     "displayName": "namack-pack",
     "description": "Nate's Extension Pack",
     "version": "0.0.1",
+    "publisher": "namack",
     "engines": {
         "vscode": "^1.33.0"
     },
